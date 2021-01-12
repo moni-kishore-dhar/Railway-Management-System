@@ -5,6 +5,7 @@ This “Railway Management System” project introduces a simple console applica
 This project has password protection mode and file handling operations to add and display train inquiry and reservation records. The purpose of this particular project is to create digital reservation system so that manual workload could be reduced.
 
 Features:
+
 1.Administrator mode: 
 Administrator needs to log in with id and password. (Id: admin; Password: 123) After log in administrator can add train as well as he will be able to schedule the train. In this mode, administrator can create detail database, add details of train, display train and passenger details. All the information is saved in auto generated files to further use.
 
