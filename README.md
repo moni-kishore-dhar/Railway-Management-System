@@ -6,17 +6,19 @@ This project has password protection mode and file handling operations to add an
 
 Features:
 
-1.Administrator mode: 
+1. Administrator mode: 
 Administrator needs to log in with id and password. (Id: admin; Password: 123) After log in administrator can add train as well as he will be able to schedule the train. In this mode, administrator can create detail database, add details of train, display train and passenger details. All the information is saved in auto generated files to further use.
 
-2.User mode: 
+2. User mode: 
 User can sign up and login on their own. This information is saved in auto generated files to further use. After having user id and password, one can get the detail reservation information such as train information & ticket information, can buy & cancel ticket.
-3.Train and Reservation details: 
+
+3. Train and Reservation details: 
 In this project, users can get both train and reservation details. The details to be provided for train are: Train No, Train Name, From, To, Departure time, Arrival Time and Off day. For the reservations there is Buy Ticket. Here is the information of   which train to choose, which date to choose, which compartment to choose, which seat to choose and seat fare.
 
-4.Cancel Reservation: 
+4. Cancel Reservation: 
 In this project one can cancel their reservation through Cancel Ticket. Here the reservation information of the particular user is shown for trains such: Train No, Train Name, From, To, Departure time, Arrival Time. This feature requires the selection of Ticket No. Upon selecting the number, the reservation gets canceled.
-5.Password: 
+
+5. Password: 
 This railway management system project requires the administration password to access the administration mode. Username is ”admin” and the password is ”123”. If we enter the wrong password, it displays the massage – “Wrong Password”.
 
 
