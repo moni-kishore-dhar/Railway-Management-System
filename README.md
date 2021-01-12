@@ -24,9 +24,13 @@ This railway management system project requires the administration password to a
 
 
 Header Files Used: 
-To make the project simple, graphics.h header file has not been used in this project. List below are the header files required to run this project.
+To make the project simple, graphics.h header file has not been used in this project. List below are the header files required to run this project:
+
 #include <bits/stdc++.h>
+
 #include <fstream.h>
+
+
 
 
 To implement this simple case study, some features have been made, which are as follows:
