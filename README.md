@@ -18,8 +18,8 @@ This railway management system project requires the administration password to a
 
 <b>Header Files Used: </b>
 To make the project simple, graphics.h header file has not been used in this project. List below are the header files required to run this project:<br>
-#include <bits/stdc++.h><br>
-#include <fstream.h>
+<b>#include <bits/stdc++.h><br>
+  #include <fstream.h></b>
 
 <b>To implement this simple case study, some features have been made, which are as follows:</b>
 1.	A user can buy only next day or above tickets; present day reservation is not allowed.
